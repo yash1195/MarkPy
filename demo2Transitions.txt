@@ -1,0 +1,9 @@
+user2 stateB
+user2 stateB
+user2 stateB
+user2 stateA
+user2 stateB
+user2 stateC
+user2 stateB
+user2 stateB
+user2 stateC
